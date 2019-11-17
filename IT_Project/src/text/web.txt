@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{background-image:url("images/background.PNG");}
+
+div{width: 96%; height:670; border: 4px solid #B3B6B7; background-color: #E6E6FA; background-size: 96% 90%;} 
+
+</style>
+</head>
+<div>
+<table border="0" bordercolor="red" width="96%">
+<tr "width="2900" height="90"><!--<td width="430" height="25"> <img src="images/UCA_logo.png" width="380" height="130"> </td>-->
+<td style= "font-size:250%; text-align: center;"> <font color="#8B008B">INFORMATION TECHNOLOGY SERVICES</font></td></tr>
+</table>
+
+<<<placeHolder1>>>
+
+<table style = "float:right; margin-right:100px; margin-top:-477px; border-collapse:collapse;"" border="1" bordercolor="black" width="400">
+<tr style = "font-size:140%;" bgcolor = "RebeccaPurple"> 
+ <td border = "0" width="210" height="27"><font color = "white">Services</font></td> 
+ <td width="100" height="27"> <font color = "white">Status</font></td> 
+</tr>
+
+<<<placeHolder2>>>
+
+<!--</table>-->
+
+
+<<<placeHolder3>>>
+</div>
+</body>
+</html>
